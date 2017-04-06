@@ -33,7 +33,7 @@ Premissas:
 
 - Entregável:
 
-    - Aplicação python que sirva um método http "/getcities" e que retorne uma lista das cidades que estão cadastradas no Banco de Dados, via os métodos do SQLAlchemy
+    - Aplicação Python que sirva um método http "/getcities" e que retorne uma lista das cidades que estão cadastradas no Banco de Dados, via os métodos do SQLAlchemy
     - Documentação *basica* de como rodar a sua solução.
     - Código completo em um repositório GIT **ou**, caso não consiga, uma pasta zipada mesmo.
 
@@ -54,7 +54,7 @@ Dicas:
 
 - *(Embora não seja obrigatório)* Gostaria de receber a tarefa em um repositório GIT, afinal esta é a ferramenta de versionamento de código que é usada no projeto real, e aí vou poder avaliar a sua proficiência no uso desta ferramenta.
 
-- A sua capacidade de aprender e aplicar algo novo e se adaptar contará mais do que a quantidade de frameworks e tecnologias que você sabe hoje, pois o estudo de novas tecnologias é uma constante no projeto real.
+- A sua capacidade de aprender, aplicar algo novo e se adaptar contará mais do que a quantidade de frameworks e tecnologias que você sabe hoje, pois o estudo de novas tecnologias é uma constante no projeto real.
     - Isso significa que, analisando o seu código, perguntarei sobre como e porquê você resolveu a task da maneira que você fez.
     - Entrelinhas: Copy-paste de pedaços/snippets de código da Internet não é pecado, e sim fonte de aprendizado genuína, mas eu preciso saber que você foi capaz de compreender e adaptar o que encontrou às suas necessidades, ou seja, se for por este caminnho, *documente suas referências* e assim poderei também avaliar a sua capacidade de caçar informação e ser ágil.
 
